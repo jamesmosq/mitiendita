@@ -1,5 +1,6 @@
 {
     "$schema": "https://www.schemastore.org/package.json",
+    "_comment": "rebuild-1",
     "private": true,
     "type": "module",
     "scripts": {
